@@ -1,0 +1,59 @@
+<br>
+<h1 style="text-align:center">Gestores Bibliográficos</h1>
+<hr>
+<p>Son programas dedicados a manejar bases de datos de referencias bibliográficas, que añaden a esta función básica la versatilidad en los formatos de entrada y salida, de acuerdo con diferentes estilos de citación y la posibilidad de incluir las referencias
+  en textos de artículos científicos, permiten crear, mantener, organizar y dar forma a referencias bibliográficas o citas de artículos de revista o libros; obtenidas de una o de varias bases de datos.</p>
+<p>La comunidad universitaria puede hacer uso de los gestores disponibles en la web:</p>
+<hr><br>
+<section>
+  <div class="row">
+    <div class="col-xs-12 col-sm-3">
+      <a href="https://www.mendeley.com/?interaction_required=true"><img class="img-responsive move" src="Img/mendeley.png" class="img-responsive" style="margin-left:20px" alt=""></a>
+    </div>
+    <div class="col-xs-12 col-sm-9">
+      <h3><b>  <a href="https://www.mendeley.com/?interaction_required=true">MENDELEY</a></b></h3>
+      <p>
+        Mendeley es al mismo tiempo un gestor de bibliografías, un lector de PDF, un sistema para almacenar y organizar documentos, un buscador de información científica y una red social académica en la que compartir citas bibliográficas y publicaciones. Es gratuita
+        y sólo hay que registrarse para utilizarla. El registro es libre y gratuito.
+        <p><a href="https://www.mendeley.com/?interaction_required=true">[Ir Al Gestor Bibliográfico]  </a> <a href="#" id="link-mendeley">  [Ver Tutorial]</a></p>
+      </p>
+    </div>
+  </div>
+</section>
+<hr>
+<br>
+<section>
+  <div class="row">
+    <div class="col-xs-12 col-sm-3">
+      <a href="https://www.zotero.org/"><img class="img-responsive move" src="Img/zotero.png" class="img-responsive" style="margin-left:20px" alt=""></a>
+    </div>
+    <div class="col-xs-12 col-sm-9">
+      <h3><b>  <a href="https://www.zotero.org/">ZOTERO</a></b></h3>
+      <p>
+        Es una extensión libre para el navegador Firefox. Permite recolectar, administrar y citar trabajos de investigación de todo tipo de orígenes del navegador, y además organizar documentos en colecciones y subcolecciones.
+        <p><a href="https://www.zotero.org/">[Ir Al Gestor Bibliográfico]  </a> <a href="#">  [Ver Tutorial]</a></p>
+      </p>
+    </div>
+  </div>
+</section>
+<hr>
+<br>
+<section>
+  <div class="row">
+    <div class="col-xs-12 col-sm-3">
+      <a href="http://www.citeulike.org/"><img class="img-responsive move" src="Img/citeulike.jpg" width="150px" class="img-responsive" style="margin-left:20px" alt=""></a>
+    </div>
+    <div class="col-xs-12 col-sm-9">
+      <h3><b>  <a href="http://www.citeulike.org/">CITEULIKE </a></b></h3>
+      <p>
+        Es un gestor de referencias bibliográficas gratuito que permite almacenar, organizar y compartir los artículos que esté leyendo. Es un servicio web donde la colección de referencias está guardada en el servidor de Citeulike, de forma que garantiza el
+        acceso desde cualquier ordenador con conexión a Internet.
+        <p><a href="http://www.citeulike.org/">[Ir Al Gestor Bibliográfico]  </a> <a href="#" id="link-mendeley">  [Ver Tutorial]</a></p>
+      </p>
+    </div>
+  </div>
+</section>
+<br><br>
+
+<script src="Js/js.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
