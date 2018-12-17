@@ -14,7 +14,19 @@
   <link rel="stylesheet" href="Css/Estilos.css">
   <!-- Bootstrap CSS-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+ <script type="text/javascript">
+   
+   $('#link-todas').click(function(event) {
+  $('#contenedor').load('BasesBibliograficas.html');
+});
+$('#link-gestores').click(function(event) {
+  $('#contenedor').load('GestoresBibliograficos.html');
+});
+$('#link-mendeley').click(function(event) {
+  $('#contenedor').load('TutorialMendeley.html');
+});
 
+ </script>
 </head>
 
 <body>
